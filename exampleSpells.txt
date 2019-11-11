@@ -1,0 +1,23 @@
+# New Spell
+Name: 
+Level: 
+Type:
+Classes : 
+Casting Time: 
+Range: 
+Components: 
+Concentration:
+Duration: 
+Description: 
+
+# New Spell
+Name: Spellicus
+Level: 5
+Type: Illusion
+Classes: Cleric, Sorcerer, Wizard
+Casting Time: 1 minute
+Range: Touch
+Components: S
+Concentration: no
+Duration: Varies
+Description: It does a think when you wave your arms about and what not
